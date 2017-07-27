@@ -6897,6 +6897,7 @@ body {
 }
 .listamenu ul {
   padding-top: 30px;
+  padding-left: 0px;
 }
 .listamenu ul li {
   padding: 0px;

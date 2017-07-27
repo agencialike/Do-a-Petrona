@@ -23,8 +23,10 @@ Template name: contacto
 	</div>
 
 	<div class="col-md-3 col-xs-12 abajo" >
-		<div class="col-xs-12">	<span><i class="fa fa-map-marker" aria-hidden="true"></i>
- Dirección: </span><br> 
+		<div class="col-xs-12">	
+			<span><i class="fa fa-map-marker" aria-hidden="true"></i>
+ 					Dirección: </span>
+ <br> 
 Av. Juan Tanca Marengo km. 4.5 diagonal a la planta de Coca Cola. <br></div>
 		<div class="col-xs-12"><span><i class="fa fa-envelope-o" aria-hidden="true"></i>
  Mail: </span><br>  info@dpetrona.com <br></div>
