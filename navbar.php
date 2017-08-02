@@ -1,34 +1,21 @@
 <div class="col-xs-12 visible-lg visible-md" >
-<div class="col-xs-12" style="padding: 0px;">
-  <div class="col-md-2 col-md-offset-10" style="padding: 10px 0px 10px 0px;">
-    <a href="https://www.facebook.com/NonnaPetrona/" target="blank"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i></a>
-    <a href="https://twitter.com/DonaPetrona" target="blank"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
-  </div>
-
-</div>
-  <div class="col-md-5 col-xs-12 menu">
-    <h1 class="col-md-4">Inicio</h1>
-    <a href="http://dpetrona.com/quienes-somos/"><h1 class="col-md-4">Quienes somos</h1></a>
-    <h1 class="col-md-4  dropdown-toggle" type="button" data-toggle="dropdown">Productos
-        </h1>
-        <ul class="dropdown-menu">
-          <li><a href="#">HTML</a></li>
-          <li><a href="#">CSS</a></li>
-          <li><a href="#">JavaScript</a></li>
-        </ul>
+  <div class="col-md-5 col-xs-12 menu" style="padding-top:20px;">
+    <h1 class="col-md-4 menu-left ">Inicio</h1>
+    <a href="http://dpetrona.com/quienes-somos/"><h1 class="col-md-4 menu-left ">Quienes somos</h1></a>
+    <a href=""><h1 class="col-md-4 menu-left ">Productos</h1></a>
 
   </div>
-  <a href="http://localhost/wordpress/">
-    <img class="col-md-2" src="http://miciudadhoy.online/dpetrona/images/logo_dp.png">
-  </a>
-  <div class="col-md-5 col-xs-12">
-    <a href="http://dpetrona.com/category/recetas/"><h1 class="col-md-4">Recetas</h1></a>
-    <a href="http://dpetrona.com/noticias-y-prensa/"><h1 class="col-md-4">Noticias y prensa</h1></a>
-    <a href="http://dpetrona.com/contactos/"><h1 class="col-md-4">Contacto</h1></a>
+  <div class="col-md-2 " >
+      <a href="http://dpetrona.com/">
+        <img class="col-xs-12" src="http://miciudadhoy.online/dpetrona/images/logo_dp.png">
+      </a>
+    </div>
+  <div class="col-md-5 col-xs-12" style="padding-top:20px; ">
+    <a href="http://dpetrona.com/category/recetas/"><h1 class="col-md-4 menu-left">Recetas</h1></a>
+    <a href="http://dpetrona.com/noticias-y-prensa/"><h1 class="col-md-4 menu-left">Noticias y prensa</h1></a>
+    <a href="http://dpetrona.com/contactos/"><h1 class="col-md-4 menu-left">Contacto</h1></a>
   </div>
 </div>
-
-
 
 
 <nav class="navbar navbar-inverse visible-xs visible-sm menures">

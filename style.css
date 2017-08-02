@@ -6863,8 +6863,8 @@ body {
 }
 .menu h1 {
   color: white;
-  font-size: 18px;
-  padding: 50px 0px 0px 0px ;
+  font-size: 16px;
+  padding: 20px 0px 20px 0px ;
   text-align: center;
 }
 .carousel-control.left,
@@ -7036,6 +7036,15 @@ body {
   font-weight: 800;
 }
 .titu-rec {
-  font-size: 16px;
+  font-size: 22px;
   font-weight: 800;
+}
+.parraf-rec {
+  color: #A3A3A3;
+  font-size: 18px;
+}
+.menu-left {
+  border-style: dotted;
+  border-width: 1px;
+  border-color: transparent white ;
 }
