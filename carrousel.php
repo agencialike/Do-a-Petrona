@@ -10,18 +10,18 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="http://localhost/wordpress/wp-content/uploads/2017/07/tallarin.jpg" alt="Chania">
+      <img src="http://dpetrona.com/wp-content/uploads/2017/08/tallarin.jpg" alt="Chania">
     </div>
 
     <div class="item">
-      <img src="http://localhost/wordpress/wp-content/uploads/2017/07/talla.jpg" alt="Chania">
+      <img src="http://dpetrona.com/wp-content/uploads/2017/08/talla.jpg" alt="Chania">
     </div>
     <div class="item">
-      <img src="http://localhost/wordpress/wp-content/uploads/2017/07/tallarin.jpg" alt="Chania">
+      <img src="http://dpetrona.com/wp-content/uploads/2017/08/tallarin.jpg" alt="Chania">
     </div>
 
     <div class="item">
-      <img src="http://localhost/wordpress/wp-content/uploads/2017/07/talla.jpg" alt="Chania">
+      <img src="http://dpetrona.com/wp-content/uploads/2017/08/talla.jpg" alt="Chania">
     </div>
 
   </div>

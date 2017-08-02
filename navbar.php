@@ -8,7 +8,7 @@
 </div>
   <div class="col-md-5 col-xs-12 menu">
     <h1 class="col-md-4">Inicio</h1>
-    <h1 class="col-md-4">Quienes somos</h1>
+    <a href="http://dpetrona.com/quienes-somos/"><h1 class="col-md-4">Quienes somos</h1></a>
     <h1 class="col-md-4  dropdown-toggle" type="button" data-toggle="dropdown">Productos
         </h1>
         <ul class="dropdown-menu">
@@ -22,9 +22,9 @@
     <img class="col-md-2" src="http://miciudadhoy.online/dpetrona/images/logo_dp.png">
   </a>
   <div class="col-md-5 col-xs-12">
-    <h1 class="col-md-4">Recetas</h1>
-    <h1 class="col-md-4">Noticias y prensa</h1>
-    <h1 class="col-md-4">Contacto</h1>
+    <a href="http://dpetrona.com/category/recetas/"><h1 class="col-md-4">Recetas</h1></a>
+    <a href="http://dpetrona.com/noticias-y-prensa/"><h1 class="col-md-4">Noticias y prensa</h1></a>
+    <a href="http://dpetrona.com/contactos/"><h1 class="col-md-4">Contacto</h1></a>
   </div>
 </div>
 
@@ -32,7 +32,7 @@
 
 
 <nav class="navbar navbar-inverse visible-xs visible-sm menures">
-  <img class="col-xs-6 col-xs-offset-3" src="http://miciudadhoy.online/dpetrona/images/logo_dp.png">
+  <img class="col-xs-6 col-xs-offset-3" src="http://dpetrona.com/wp-content/uploads/2017/08/logo_dp.png">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">

@@ -18,4 +18,4 @@
 		<!-- no posts found -->
 		<?php endif; ?>
 </div>
-<img src="http://localhost/wordpress/wp-content/uploads/2017/07/20158057_1389986707733305_3206763404836837720_o.jpg" class="col-xs-12 img-responsive" style="padding: 25px 0px;" alt="">
+<img src="http://dpetrona.com/wp-content/uploads/2017/08/20158057_1389986707733305_3206763404836837720_o.jpg" class="col-xs-12 img-responsive" style="padding: 25px 0px;" alt="">

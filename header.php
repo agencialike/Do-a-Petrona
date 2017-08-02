@@ -6,6 +6,8 @@
   <link rel="alternate" hreflang="ec" href="http://lleila.com/" />
   <link rel="canonical" href="http://www.lleila.com/">
  <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
+  <link href="http://dpetrona.com/wp-content/uploads/2017/08/logo_dp.png" rel="shortcut icon" type="image/x-icon" />
+
 
 
  <!-- Facebook -->

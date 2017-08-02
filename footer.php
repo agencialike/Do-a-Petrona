@@ -19,7 +19,7 @@
 		</div>
 		<div class="col-md-4 col-xs-12">
 			<h1>Síguenos en Twitter</h1>
-			<a class="twitter-timeline" data-height="400" href="https://twitter.com/LleilaMagazine">Tweets by LleilaMagazine</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+			
 		</div>
 		<div class="col-md-4 col-xs-12">
 			<h1>Síguenos en Facebook</h1>

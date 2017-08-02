@@ -6,7 +6,7 @@ Template name: contacto
 
 <?php include "header.php"; ?>
 <?php include "banner-cont.php"; ?>
-<div class="map col-xs-12" style="padding: 0px;">
+<div class="map col-xs-12 col-md-8 col-md-offset-2" style="padding: 0px;">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16625.39923855429!2d-79.92408203557915!3d-2.1392811981427946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d6d7cd517422f%3A0xaa4d6e2a211bc035!2sDo%C3%B1a+Petrona!5e0!3m2!1ses!2ses!4v1501190901017" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
  

@@ -9,6 +9,7 @@
 		<div class="col-md-4 col-xs-12">
 			<figure class="img-responsive">
 				<?php the_post_thumbnail( ); ?>
+				<h1 class="titu-rec"><?php the_title( ); ?></h1>
 			</figure>
 		</div>
 		</a>
