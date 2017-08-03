@@ -7279,3 +7279,18 @@ input[type="submit"] {
     transform: translatey(5px);
   }
 }
+.titu-rec {
+  font-size: 22px;
+  font-weight: 800;
+}
+.paracat {
+  color: #333;
+  font-size: 22px;
+  font-weight: 800;
+}
+.paracat ul {
+  color: #333;
+}
+.paracat ul li {
+  color: #333;
+}

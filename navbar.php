@@ -2,7 +2,7 @@
   <div class="col-md-5 col-xs-12 menu" style="padding-top:20px;">
     <a href="http://dpetrona.com/"><h1 class="col-md-4 menu-left ">Inicio</h1></a>
     <a href="http://dpetrona.com/quienes-somos/"><h1 class="col-md-4 menu-left ">Quienes somos</h1></a>
-    <a href=""><h1 class="col-md-4 menu-left ">Productos</h1></a>
+    <a href="http://dpetrona.com/productos/"><h1 class="col-md-4 menu-left ">Productos</h1></a>
 
   </div> 
   <div class="col-md-2" >
@@ -12,7 +12,7 @@
     </div>
   <div class="col-md-5 col-xs-12" style="padding-top:20px; ">
     <a href="http://dpetrona.com/category/recetas/"><h1 class="col-md-4 menu-left">Recetas</h1></a>
-    <a href="http://dpetrona.com/noticias-y-prensa/"><h1 class="col-md-4 menu-left">Noticias y prensa</h1></a>
+    <a href="http://dpetrona.com/category/noticia-y-prensa/"><h1 class="col-md-4 menu-left">Noticias y prensa</h1></a>
     <a href="http://dpetrona.com/contactos/"><h1 class="col-md-4 menu-left">Contacto</h1></a>
   </div>
 </div>
@@ -30,12 +30,12 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Inicio</a></li>
-        <li><a href="#">Quienes somos</a></li>
-        <li><a href="#">Productos</a></li>
-        <li><a href="#">Recetas</a></li>
-        <li><a href="#">Noticias y prensa</a></li>
-        <li><a href="#">Contacto</a></li>
+        <li class="active"><a href="http://dpetrona.com/">Inicio</a></li>
+        <li><a href="ttp://dpetrona.com/quienes-somos/">Quienes somos</a></li>
+        <li><a href="http://dpetrona.com/productos/">Productos</a></li>
+        <li><a href="http://dpetrona.com/category/recetas/">Recetas</a></li>
+        <li><a href="http://dpetrona.com/category/noticia-y-prensa/">Noticias y prensa</a></li>
+        <li><a href="http://dpetrona.com/contactos/">Contacto</a></li>
       </ul>
       <!--
       <ul class="nav navbar-nav navbar-right">

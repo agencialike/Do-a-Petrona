@@ -2,10 +2,8 @@
 
 <div class="container">
 	<div class="col-xs-12 Loop1">
-		<h1 class="col-xs-12" style="font-weight: 800;">RECETAS</h1>
+		<h1 class="col-xs-12  paracat" style="font-weight: 800;  "><?php the_category( ); ?></h1>
 		<div class="col-xs-12" style="padding: 20px 0px 50px 0px;">
-		<?php rewind_posts(); ?>
-		<?php query_posts("cat=‘2’" ); ?>
 		 	<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 			<!-- post -->
 			<a href=" <?php the_permalink(); ?>">

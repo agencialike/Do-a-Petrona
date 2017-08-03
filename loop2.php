@@ -2,7 +2,7 @@
 	<h1 class="col-xs-12" style="font-weight: 800;">NOTICIAS Y PRENSA</h1>
 	<div class="col-xs-12" style="padding: 20px 0px 50px 0px;">
 	<?php rewind_posts(); ?>
-	<?php query_posts("cat=‘3’" ); ?>
+	<?php query_posts("cat=‘4’" ); ?>
 	 	<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 		<!-- post -->
 		<a href=" <?php the_permalink(); ?>">
