@@ -7,5 +7,5 @@
     $asunto = $_POST["asunto"];
     $contenido = "nombre:" . $nombre ."\nmail:" . $mail . "\nasunto:"  . $asunto  . ;
     mail($destino,"contacto", $contenido, $subject);
-    header("location:http://trihu.com/index.html");
+    header("location:http://dpetrona.com/");
     ?>
