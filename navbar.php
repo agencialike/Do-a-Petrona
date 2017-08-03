@@ -5,7 +5,7 @@
     <a href=""><h1 class="col-md-4 menu-left ">Productos</h1></a>
 
   </div> 
-  <div class="col-md-2 " style="transform:translateY(15px);" >
+  <div class="col-md-2" >
       <a href="http://dpetrona.com/">
         <img class="col-xs-12" src="http://dpetrona.com/wp-content/uploads/2017/08/logo_dp.png">
       </a>
