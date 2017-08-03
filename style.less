@@ -23,7 +23,8 @@ body{
 	font-family: @font1;
 }
 .menu{
-background: #183691;
+	background: #183691;
+	height: 120px;
 	h1{
 		color: white;
 		font-size: 16px;
@@ -33,6 +34,21 @@ background: #183691;
 	}
 
 }
+@media (max-width:900px) {
+	.menu{
+	background: #183691;
+	height: 250px;
+	h1{
+		color: white;
+		font-size: 16px;
+		padding:20px 0px 20px 0px ;
+		text-align: center;
+
+	}
+
+}
+}
+
 .carousel-control.left, .carousel-control.right{
 	background-image: none;
 }
@@ -266,7 +282,33 @@ button, html input[type="button"], input[type="reset"], input[type="submit"]{
 	width: 100%;
 	}
 }
+.percha{
+	background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha1.jpg");
+	background-position: bottom center;
+	padding-bottom: 10px;
+	.thumbnail{
+		background: transparent;
+		border: transparent;
+		margin-bottom:0px;
+		transform:translateY(5px);
+	}
+}
 
+
+@media (max-width:990px) {
+	.percha{
+	background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha1.jpg");
+	background-position: bottom center;
+	padding-bottom: 50px;
+	background-size:620px
+	.thumbnail{
+		background: transparent;
+		border: transparent;
+		margin-bottom:0px;
+		transform:translateY(5px);
+	}
+	}
+}
 
 
 

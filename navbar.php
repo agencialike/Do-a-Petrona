@@ -1,13 +1,13 @@
 <div class="col-xs-12 visible-lg visible-md" >
   <div class="col-md-5 col-xs-12 menu" style="padding-top:20px;">
-    <h1 class="col-md-4 menu-left ">Inicio</h1>
+    <a href="http://dpetrona.com/"><h1 class="col-md-4 menu-left ">Inicio</h1></a>
     <a href="http://dpetrona.com/quienes-somos/"><h1 class="col-md-4 menu-left ">Quienes somos</h1></a>
     <a href=""><h1 class="col-md-4 menu-left ">Productos</h1></a>
 
-  </div>
-  <div class="col-md-2 " >
+  </div> 
+  <div class="col-md-2 " style="transform:translateY(15px);" >
       <a href="http://dpetrona.com/">
-        <img class="col-xs-12" src="http://miciudadhoy.online/dpetrona/images/logo_dp.png">
+        <img class="col-xs-12" src="http://dpetrona.com/wp-content/uploads/2017/08/logo_dp.png">
       </a>
     </div>
   <div class="col-md-5 col-xs-12" style="padding-top:20px; ">

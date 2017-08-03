@@ -19,6 +19,7 @@
 		</div>
 		<div class="col-md-4 col-xs-12">
 			<h1>Síguenos en Twitter</h1>
+			<a class="twitter-timeline" data-width="100%" data-height="300" href="https://twitter.com/DonaPetrona">Tweets by DonaPetrona</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 			
 		</div>
 		<div class="col-md-4 col-xs-12">

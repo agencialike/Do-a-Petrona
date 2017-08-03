@@ -1,9 +1,5 @@
 <?php include "header.php"; ?>
 
-<div class="container-fluid" style="padding: 0px;">
-	<?php include "carrousel.php"; ?>
-</div>
-
 <div class="container">
 	<div class="col-xs-12 Loop1">
 		<h1 class="col-xs-12" style="font-weight: 800;">RECETAS</h1>

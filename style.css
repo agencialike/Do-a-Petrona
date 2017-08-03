@@ -6860,12 +6860,25 @@ body {
 }
 .menu {
   background: #183691;
+  height: 120px;
 }
 .menu h1 {
   color: white;
   font-size: 16px;
   padding: 20px 0px 20px 0px ;
   text-align: center;
+}
+@media (max-width: 900px) {
+  .menu {
+    background: #183691;
+    height: 250px;
+  }
+  .menu h1 {
+    color: white;
+    font-size: 16px;
+    padding: 20px 0px 20px 0px ;
+    text-align: center;
+  }
 }
 .carousel-control.left,
 .carousel-control.right {
@@ -7060,4 +7073,28 @@ input[type="submit"] {
 }
 .buscadorpeq #searchsubmit {
   width: 100%;
+}
+.percha {
+  background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha1.jpg");
+  background-position: bottom center;
+  padding-bottom: 10px;
+}
+.percha .thumbnail {
+  background: transparent;
+  border: transparent;
+  margin-bottom: 0px;
+  transform: translatey(5px);
+}
+@media (max-width: 990px) {
+  .percha {
+    background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha1.jpg");
+    background-position: bottom center;
+    padding-bottom: 50px;
+  }
+  .percha background-size:620px.thumbnail {
+    background: transparent;
+    border: transparent;
+    margin-bottom: 0px;
+    transform: translatey(5px);
+  }
 }

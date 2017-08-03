@@ -1,6 +1,6 @@
 <?php include "header.php"; ?>
 
-<div class="container-fluid" style="padding: 0px;">
+<div class="container-fluid" style="padding:0px;">
 	<?php include "carrousel.php"; ?>
 </div>
 

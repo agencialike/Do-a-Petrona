@@ -12,32 +12,84 @@ Template name: productos
 
 <div class="container">
 <h1 class="titu-rec" style="padding: 25px 0px;">Productos</h1>
-    <div class="row">
-        <div class="col-md-4">
+    <div class="row percha">
+    <!-- Producto1-->
+        <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                 <a href="" data-toggle="modal" data-target="#product_view1">
-                    <img src="http://placehold.it/500X500" alt="" class="img-responsive">
-                </a>
-                <div class="space-ten"></div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="thumbnail">
-                <a href="" data-toggle="modal" data-target="#product_view2">
-                    <img src="http://placehold.it/500X500" alt="" class="img-responsive">
+                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
                 </a>
                 
-                <div class="space-ten"></div>
               </div>
             </div>
-            <div class="col-md-4">
+    <!-- Producto2-->
+            <div class="col-md-3 col-xs-12">
+              <div class="thumbnail">
+                <a href="" data-toggle="modal" data-target="#product_view1">
+                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                </a>
+                
+              </div>
+            </div>
+    <!-- Producto3-->
+            <div class="col-md-3 col-xs-12">
+              <div class="thumbnail">
+                <a href="" data-toggle="modal" data-target="#product_view2">
+                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/spaghetti.png" alt="" class="img-responsive">
+                </a>
+                
+                
+              </div>
+            </div>
+    <!-- Producto4-->
+            <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                <a href="" data-toggle="modal" data-target="#product_view1">
-                    <img src="http://placehold.it/500X500" alt="" class="img-responsive">
+                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
                 </a>
-                <div class="space-ten"></div>
+                
+              </div>
+
+        </div>
+    </div>
+    <div class="row percha">
+    <!-- Producto5-->
+        <div class="col-md-3 col-xs-12">
+              <div class="thumbnail">
+                <a href="" data-toggle="modal" data-target="#product_view1">
+                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                </a>
+                
               </div>
             </div>
+    <!-- Producto6-->
+            <div class="col-md-3 col-xs-12">
+              <div class="thumbnail">
+                <a href="" data-toggle="modal" data-target="#product_view1">
+                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                </a>
+                
+              </div>
+            </div>
+        <!-- Producto7-->
+            <div class="col-md-3 col-xs-12">
+              <div class="thumbnail">
+                <a href="" data-toggle="modal" data-target="#product_view2">
+                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/spaghetti.png" alt="" class="img-responsive">
+                </a>
+                
+                
+              </div>
+            </div>
+        <!-- Producto8-->
+            <div class="col-md-3 col-xs-12">
+              <div class="thumbnail">
+               <a href="" data-toggle="modal" data-target="#product_view1">
+                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                </a>
+                
+              </div>
+        </div>
     </div>
 </div>
 
@@ -52,18 +104,10 @@ Template name: productos
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-6 product_img">
-                        <img src="http://placehold.it/500X800" class="img-responsive">
+                        <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" class="img-responsive">
                     </div>
                     <div class="col-md-6 product_content">
                         <h4>Product Id: <span>51526</span></h4>
-                        <div class="rating">
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            (10 reviews)
-                        </div>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                         <h3 class="cost"><span class="glyphicon glyphicon-usd"></span> 75.00 <small class="pre-cost"><span class="glyphicon glyphicon-usd"></span> 60.00</small></h3>
                         <div class="row">
@@ -97,11 +141,8 @@ Template name: productos
                             </div>
                             <!-- end col -->
                         </div>
-                        <div class="space-ten"></div>
-                        <div class="btn-ground">
-                            <button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-shopping-cart"></span> Add To Cart</button>
-                            <button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-heart"></span> Add To Wishlist</button>
-                        </div>
+                        
+                        
                     </div>
                 </div>
             </div>
@@ -119,18 +160,10 @@ Template name: productos
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-6 product_img">
-                        <img src="http://placehold.it/500X800" class="img-responsive">
+                        <img src="http://localhost/wordpress/wp-content/uploads/2017/08/spaghetti.png" class="img-responsive">
                     </div>
                     <div class="col-md-6 product_content">
                         <h4>Product Id: <span>51526</span></h4>
-                        <div class="rating">
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            (10 reviews)
-                        </div>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                         <h3 class="cost"><span class="glyphicon glyphicon-usd"></span> 75.00 <small class="pre-cost"><span class="glyphicon glyphicon-usd"></span> 60.00</small></h3>
                         <div class="row">
@@ -164,11 +197,8 @@ Template name: productos
                             </div>
                             <!-- end col -->
                         </div>
-                        <div class="space-ten"></div>
-                        <div class="btn-ground">
-                            <button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-shopping-cart"></span> Add To Cart</button>
-                            <button type="button" class="btn btn-primary"><span class="glyphicon glyphicon-heart"></span> Add To Wishlist</button>
-                        </div>
+                        
+                        
                     </div>
                 </div>
             </div>
