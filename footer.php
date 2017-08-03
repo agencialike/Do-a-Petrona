@@ -1,12 +1,6 @@
 <div class="container-fluid" style="background: #1B1B1B;">
 	<div class="container footers">
 		<div class="col-md-4 col-xs-12">
-			<div class="col-xs-12">
-				<h1>Boletín</h1>
-				<form action="">
-					<input type="text" class="col-xs-9"> <a href="#"><div class="col-xs-3 benv">Enviar</div></a>
-				</form>
-			</div>
 			<div class="col-xs-12 listamenu">
 				<h1>Contáctanos</h1>
 				<ul>

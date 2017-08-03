@@ -7289,8 +7289,12 @@ input[type="submit"] {
   font-weight: 800;
 }
 .paracat ul {
+  padding: 0px;
   color: #333;
 }
 .paracat ul li {
   color: #333;
+  font-size: 30px;
+  font-weight: 800;
+  list-style: none;
 }

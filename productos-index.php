@@ -11,13 +11,13 @@ Template name: productos
 </style>
 
 <div class="container">
-<h1 class="titu-rec" style="padding: 25px 0px;">Productos</h1>
+<h1 class="titu-rec" style="padding: 25px 0px; font-size: 30px;">Productos</h1>
     <div class="row percha">
     <!-- Producto1-->
         <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                 <a href="" data-toggle="modal" data-target="#product_view1">
-                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                    <img src="http://dpetrona.com/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
                 </a>
                 
               </div>
@@ -26,7 +26,7 @@ Template name: productos
             <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                 <a href="" data-toggle="modal" data-target="#product_view1">
-                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                    <img src="http://dpetrona.com/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
                 </a>
                 
               </div>
@@ -35,7 +35,7 @@ Template name: productos
             <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                 <a href="" data-toggle="modal" data-target="#product_view2">
-                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/spaghetti.png" alt="" class="img-responsive">
+                    <img src="http://dpetrona.com/wp-content/uploads/2017/08/spaghetti.png" alt="" class="img-responsive">
                 </a>
                 
                 
@@ -45,7 +45,7 @@ Template name: productos
             <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                <a href="" data-toggle="modal" data-target="#product_view1">
-                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                    <img src="http://dpetrona.com/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
                 </a>
                 
               </div>
@@ -57,7 +57,7 @@ Template name: productos
         <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                 <a href="" data-toggle="modal" data-target="#product_view1">
-                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                    <img src="http://dpetrona.com/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
                 </a>
                 
               </div>
@@ -66,7 +66,7 @@ Template name: productos
             <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                 <a href="" data-toggle="modal" data-target="#product_view1">
-                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                    <img src="http://dpetrona.com/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
                 </a>
                 
               </div>
@@ -75,7 +75,7 @@ Template name: productos
             <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                 <a href="" data-toggle="modal" data-target="#product_view2">
-                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/spaghetti.png" alt="" class="img-responsive">
+                    <img src="http://dpetrona.com/wp-content/uploads/2017/08/spaghetti.png" alt="" class="img-responsive">
                 </a>
                 
                 
@@ -85,7 +85,7 @@ Template name: productos
             <div class="col-md-3 col-xs-12">
               <div class="thumbnail">
                <a href="" data-toggle="modal" data-target="#product_view1">
-                    <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
+                    <img src="http://dpetrona.com/wp-content/uploads/2017/08/empaque1.png" alt="" class="img-responsive">
                 </a>
                 
               </div>
@@ -104,7 +104,7 @@ Template name: productos
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-6 product_img">
-                        <img src="http://localhost/wordpress/wp-content/uploads/2017/08/empaque1.png" class="img-responsive">
+                        <img src="http://dpetrona.com/wp-content/uploads/2017/08/empaque1.png" class="img-responsive">
                     </div>
                     <div class="col-md-6 product_content">
                         <h4>Product Id: <span>51526</span></h4>
@@ -160,7 +160,7 @@ Template name: productos
             <div class="modal-body">
                 <div class="row">
                     <div class="col-md-6 product_img">
-                        <img src="http://localhost/wordpress/wp-content/uploads/2017/08/spaghetti.png" class="img-responsive">
+                        <img src="http://dpetrona.com/wp-content/uploads/2017/08/spaghetti.png" class="img-responsive">
                     </div>
                     <div class="col-md-6 product_content">
                         <h4>Product Id: <span>51526</span></h4>
