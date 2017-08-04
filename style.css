@@ -7258,7 +7258,6 @@ input[type="submit"] {
 .percha {
   background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha2-01.png");
   background-position: bottom center;
-  padding-bottom: 10px;
 }
 .percha .thumbnail {
   background: transparent;
@@ -7268,15 +7267,24 @@ input[type="submit"] {
 }
 @media (max-width: 990px) {
   .percha {
-    background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha2-01.png");
+    background: transparent;
     background-position: bottom center;
-    padding-bottom: 50px;
   }
   .percha background-size:620px.thumbnail {
     background: transparent;
     border: transparent;
     margin-bottom: 0px;
     transform: translatey(5px);
+  }
+  .percha h1 {
+    padding: 0px;
+    text-align: center;
+  }
+}
+@media (max-width: 990px) {
+  .perchares {
+    background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha2-01.png");
+    background-position: bottom center;
   }
 }
 .titu-rec {

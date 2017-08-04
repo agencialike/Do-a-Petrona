@@ -492,7 +492,6 @@ button, html input[type="button"], input[type="reset"], input[type="submit"]{
 .percha{
 	background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha2-01.png");
 	background-position: bottom center;
-	padding-bottom: 10px;
 	.thumbnail{
 		background: transparent;
 		border: transparent;
@@ -504,9 +503,8 @@ button, html input[type="button"], input[type="reset"], input[type="submit"]{
 
 @media (max-width:990px) {
 	.percha{
-	background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha2-01.png");
+	background: transparent;
 	background-position: bottom center;
-	padding-bottom: 50px;
 	background-size:620px
 	.thumbnail{
 		background: transparent;
@@ -514,8 +512,18 @@ button, html input[type="button"], input[type="reset"], input[type="submit"]{
 		margin-bottom:0px;
 		transform:translateY(5px);
 	}
+	h1{
+		padding: 0px;
+		text-align: center;
+	}
 	}
 }
+@media (max-width:990px) {
+	.perchares{
+		background: url("http://localhost/wordpress/wp-content/uploads/2017/08/percha2-01.png");
+		background-position: bottom center;
+	}
+ }
 .titu-rec{
 	font-size: 22px;
 	font-weight: 800;

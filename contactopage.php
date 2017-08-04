@@ -22,7 +22,7 @@ Template name: contacto
 		</form>
 	</div>
 
-	<div class="col-md-3 col-xs-12 abajo" >
+	<div class="col-md-3 col-xs-12 abajo" style="margin-top: 15px;" >
 		<div class="col-xs-12">	
 			<span><i class="fa fa-map-marker" aria-hidden="true"></i>
  					Dirección: </span>
