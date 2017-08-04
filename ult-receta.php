@@ -5,7 +5,7 @@
 </div> -->
 	<h1 class="col-xs-12" style="font-weight: 800; font-size: 22px;">Últimas noticias</h1>
 	<?php rewind_posts(); ?>
-	<?php query_posts("cat=‘3’&&posts_per_page=1" ); ?>
+	<?php query_posts("cat=‘4’&&posts_per_page=3" ); ?>
 	 	<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 		<!-- post -->
 		<a href=" <?php the_permalink(); ?>">

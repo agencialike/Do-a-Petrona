@@ -10,7 +10,7 @@
 			<div class="col-md-4 col-xs-12 clearfix" style="padding: 20px 15px;">
 				<figure class="img-responsive">
 					<?php the_post_thumbnail( ); ?>
-					<h1 class="titu-rec" style="height: 100px;"><?php the_title( ); ?></h1>
+					<h1 class="titu-rec" style="height: 80px;"><?php the_title( ); ?></h1>
 				</figure>
 			</div>
 			</a>
@@ -19,9 +19,12 @@
 			<?php else: ?>
 			<!-- no posts found -->
 			<?php endif; ?>
+			<?php if ( function_exists( 'pgntn_display_pagination' ) ) pgntn_display_pagination( 'multipage' );
+ ?>
 		</div>
 	</div>
 </div>
+
 
 
 <?php include "footer.php"; ?>

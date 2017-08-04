@@ -18,7 +18,9 @@
 		</div>
 		<div class="col-md-4 col-xs-12">
 			<h1>Síguenos en Facebook</h1>
-			<div class="fb-page" data-href="https://www.facebook.com/NonnaPetrona/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/NonnaPetrona/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/NonnaPetrona/">allnaturalresgasa</a></blockquote></div>
+			<a href="https://www.facebook.com/NonnaPetrona/" target="blank">
+			<img src="http://dpetrona.com/wp-content/uploads/2017/08/20158057_1389986707733305_3206763404836837720_o.jpg" class="col-xs-12 img-responsive" style="padding: 25px 0px;" alt="">
+			</a>
 		</div>
 		<h1 class="col-xs-12 text-center" style="font-size: 14px; color: #818181;">Copyright © Doña Petrona 2017. Todos los Derechos Reservados. Desarrollado por <a href="http://like.com.ec/" target="blank">like.com.ec</a></h1>
 	</div>

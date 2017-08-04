@@ -21,17 +21,17 @@ Desde el año 2015, nuestras líneas de producción se encuentran en proceso de 
 
 	<h1 class="titu-rec col-xs-12 text-center"> DESCUBRE NUESTRA PLANTA</h1>
 	<div class="row">
-	<div class="col-md-4 col-sm-6 col-xs-12">
+	<div class="col-md-4 col-sm-6 col-xs-12" style="padding: 15px 0px 0px 0px">
 		<a href="http://dpetrona.com/wp-content/uploads/2017/08/una.jpg" target="blank" data-lightbox="galleria">
 			<img src="http://dpetrona.com/wp-content/uploads/2017/08/una.jpg" class="co-xs-12 img-responsive" alt="">
 		</a>
 	</div>
-	<div class="col-md-4 col-sm-6 col-xs-12">
+	<div class="col-md-4 col-sm-6 col-xs-12" style="padding: 15px 0px 0px 0px">
 		<a href="http://dpetrona.com/wp-content/uploads/2017/08/dos.jpg" target="blank" data-lightbox="galleria">
 			<img src="http://dpetrona.com/wp-content/uploads/2017/08/dos.jpg" class="co-xs-12 img-responsive" alt="">
 		</a>
 	</div>
-	<div class="col-md-4 col-sm-6 col-xs-12">
+	<div class="col-md-4 col-sm-6 col-xs-12" style="padding: 15px 0px 0px 0px">
 		<a href="http://dpetrona.com/wp-content/uploads/2017/08/tres.jpg" target="blank" data-lightbox="galleria">
 			<img src="http://dpetrona.com/wp-content/uploads/2017/08/tres.jpg" class="co-xs-12 img-responsive" alt="">
 		</a>
