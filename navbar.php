@@ -18,31 +18,27 @@
 </div>
 
 
-<nav class="navbar navbar-inverse visible-xs visible-sm menures">
-  <img class="col-xs-6 col-xs-offset-3" src="http://dpetrona.com/wp-content/uploads/2017/08/logo_dp.png">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span> 
-      </button>
-    </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="http://dpetrona.com/">Inicio</a></li>
-        <li><a href="ttp://dpetrona.com/quienes-somos/">Quienes somos</a></li>
-        <li><a href="http://dpetrona.com/productos/">Productos</a></li>
-        <li><a href="http://dpetrona.com/category/recetas/">Recetas</a></li>
-        <li><a href="http://dpetrona.com/category/noticia-y-prensa/">Noticias y prensa</a></li>
-        <li><a href="http://dpetrona.com/contactos/">Contacto</a></li>
-      </ul>
-      <!--
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-      </ul>
-      -->
-    </div>
-  </div>
-</nav>
+
+  <img class="col-xs-6 col-xs-offset-3 visible-sm visible-xs" src="http://dpetrona.com/wp-content/uploads/2017/08/logo_dp.png">
+<div class="col-xs-12 visible-sm visible-xs" style="padding: 0px 0px;">
+    <a href="http://dpetrona.com/quienes-somos/"><div class="col-xs-3 text-center"><i class="fa fa-2x fa-users" aria-hidden="true"></i></div></a>
+    <a href="http://dpetrona.com/productos/"><div class="col-xs-3 text-center"><i class="fa fa-2x fa-shopping-cart" aria-hidden="true"></i></div></a>
+    <a href="http://dpetrona.com/category/recetas/"><div class="col-xs-3 text-center"><i class="fa fa-2x fa-cutlery" aria-hidden="true"></i></div></a>
+    <a href="http://dpetrona.com/contactos/"><div class="col-xs-3 text-center"><i class="fa fa-2x fa-phone" aria-hidden="true"></i></div></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

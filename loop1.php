@@ -1,5 +1,5 @@
 <div class="col-xs-12 Loop1">
-	<h1 class="col-xs-12" style="font-weight: 800;">RECETAS <?php get_search_form( true ); ?></h1>
+	<h1 class="col-xs-12" style="font-weight: 800;">RECETAS </h1>
 	<div class="col-xs-12" style="padding: 20px 0px 50px 0px;">
 	<?php rewind_posts(); ?>
 	<?php query_posts("cat=‘2’" ); ?>

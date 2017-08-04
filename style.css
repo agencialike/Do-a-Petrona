@@ -7298,3 +7298,14 @@ input[type="submit"] {
   font-weight: 800;
   list-style: none;
 }
+.navbar-inverse .navbar-nav > li > a {
+  background: #337ab7;
+}
+.fa-2x {
+  color: white;
+  text-align: center;
+}
+.veintporc {
+  width: 20%;
+  float: left;
+}

@@ -1,7 +1,8 @@
 <div class="col-xs-12 Loop1" style="padding: 0px;">
 <div class="col-xs-12 buscadorpeq">
+<!-- 
 	<?php get_search_form( true ); ?>
-</div>
+</div> -->
 	<h1 class="col-xs-12" style="font-weight: 800; font-size: 22px;">Últimas noticias</h1>
 	<?php rewind_posts(); ?>
 	<?php query_posts("cat=‘3’&&posts_per_page=1" ); ?>
