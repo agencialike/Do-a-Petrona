@@ -39,5 +39,6 @@
 	<div class=" col-md-3 col-xs-12" style="background: #ecf0f1; padding: 0px;">
 		<?php include "ult-receta.php"; ?>
 	</div>
+	</div>
 <?php  include "recom-single.php"; ?>
 </div>

@@ -7,7 +7,7 @@
 		 	<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 			<!-- post -->
 			<a href=" <?php the_permalink(); ?>">
-			<div class="col-md-4 col-xs-12" style="padding: 20px 0px;">
+			<div class="col-md-4 col-xs-12" style="padding: 20px 15px;">
 				<figure class="img-responsive">
 					<?php the_post_thumbnail( ); ?>
 					<h1 class="titu-rec"><?php the_title( ); ?></h1>

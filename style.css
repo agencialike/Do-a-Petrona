@@ -7049,10 +7049,34 @@ body {
   padding: 20px 0px 20px 0px ;
   text-align: center;
 }
-@media (max-width: 900px) {
+@media (max-width: 990px) {
   .menu {
     background: #183691;
     height: 250px;
+  }
+  .menu h1 {
+    color: white;
+    font-size: 16px;
+    padding: 20px 0px 20px 0px ;
+    text-align: center;
+  }
+}
+@media (max-width: 400px) {
+  .menu {
+    background: #183691;
+    height: 220px;
+  }
+  .menu h1 {
+    color: white;
+    font-size: 16px;
+    padding: 20px 0px 20px 0px ;
+    text-align: center;
+  }
+}
+@media (max-width: 250px) {
+  .menu {
+    background: #183691;
+    height: 120px;
   }
   .menu h1 {
     color: white;

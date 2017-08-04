@@ -13,7 +13,7 @@ Template name: contacto
 <div class="container" style="margin-top: 60px; margin-bottom: 60px;">
 <h1 class="col-xs-12" style="font-size: 24px; font-weight: 800;">ENVÍENOS SUS COMENTARIOS</h1>
 	<div class="col-md-9 col-xs-12">
-		<form action="" class="contactanos" action="" method="post" role="form">
+		<form action="http://www.dpetrona.com/form/form1.php" class="contactanos" method="post">
 			<input type="nombre" class="col-xs-12" type="text" placeholder="Nombre">
 			<input type="email" class="col-xs-12" type="text" placeholder="Email">
 			<input type="asunto" class="col-xs-12" type="text" placeholder="Asunto">
